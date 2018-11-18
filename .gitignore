@@ -1,0 +1,5 @@
+config.js
+*.out
+*.log
+*.error
+*.pyc
